@@ -31,11 +31,13 @@ INSTALLATION
 1. Eget duis at tellus at urna condimentum mattis pellentesque.
 2. Ultricies mi quis hendrerit dolor magna.
 3. Montes nascetur ridiculus mus mauris.
-4. Accumsan tortor posuere ac ut consequat semper. 
+4. Accumsan tortor posuere ac ut consequat semper.
 
 CONFIGURATION
 -------------
 Bibendum est ultricies integer quis auctor elit sed vulputate mi. Quis eleifend quam adipiscing vitae. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Nam libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis. Vel fringilla est ullamcorper eget.
+
+ROCKET SHIPS.
 
 TROUBLESHOOTING
 ---------------
